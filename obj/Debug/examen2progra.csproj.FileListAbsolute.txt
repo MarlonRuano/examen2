@@ -1,0 +1,8 @@
+C:\Users\norma\OneDrive\Escritorio\segundo examen progra\examen2progra\bin\Debug\examen2progra.exe.config
+C:\Users\norma\OneDrive\Escritorio\segundo examen progra\examen2progra\bin\Debug\examen2progra.exe
+C:\Users\norma\OneDrive\Escritorio\segundo examen progra\examen2progra\bin\Debug\examen2progra.pdb
+C:\Users\norma\OneDrive\Escritorio\segundo examen progra\examen2progra\obj\Debug\examen2progra.csproj.AssemblyReference.cache
+C:\Users\norma\OneDrive\Escritorio\segundo examen progra\examen2progra\obj\Debug\examen2progra.csproj.SuggestedBindingRedirects.cache
+C:\Users\norma\OneDrive\Escritorio\segundo examen progra\examen2progra\obj\Debug\examen2progra.csproj.CoreCompileInputs.cache
+C:\Users\norma\OneDrive\Escritorio\segundo examen progra\examen2progra\obj\Debug\examen2progra.exe
+C:\Users\norma\OneDrive\Escritorio\segundo examen progra\examen2progra\obj\Debug\examen2progra.pdb
